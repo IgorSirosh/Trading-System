@@ -1,0 +1,5 @@
+{
+  "name": "Futures Multi-Subaccount Trading System",
+  "description": "An automated system for managing a group of subaccounts for long futures trading, using reverse trailing, dynamic offsets based on RSI, and a subaccount ladder strategy.",
+  "requestFramePermissions": []
+}
